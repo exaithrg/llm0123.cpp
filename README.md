@@ -26,6 +26,16 @@ https://github.com/karpathy/llm.c
 
 https://github.com/karpathy/llama2.c
 
+https://github.com/gevtushenko/llm.c
+
+https://github.com/zhangpiu/llm.cpp
+
+https://github.com/GaoYusong/llm.cpp
+
+https://github.com/leloykun/llama2.cpp
+
+https://github.com/coldlarry/llama2.cpp
+
 https://github.com/andrewkchan/yalm
 
 https://github.com/janhq/cortex.llamacpp
@@ -37,6 +47,8 @@ https://github.com/adamydwang/mobilellama
 https://github.com/xefoci7612/baby-llama2.cpp
 
 https://github.com/DouglasOrr/LowLlamaBasic
+
+https://github.com/jameswdelancey/llama3.c
 
 https://github.com/jonemeth/llama3.cpp
 
