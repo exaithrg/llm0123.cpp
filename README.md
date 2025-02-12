@@ -77,3 +77,4 @@ https://github.com/jonemeth/llama3.cpp
 
 https://github.com/rasbt/LLMs-from-scratch
 
+https://github.com/P1ayer-1/Llama-LibTorch
